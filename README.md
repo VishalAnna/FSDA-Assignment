@@ -1,3 +1,3 @@
 # FSDA-Assignment
 Ineuron FSDA Assignment
-1. Statistcs Assignment
+1. Statistics Assignment
